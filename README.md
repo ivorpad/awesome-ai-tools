@@ -14,6 +14,7 @@
 - [Web Scraping](#web-scraping)
 - [Embeddings](#embeddings)
 - [Notebooks & Tutorials](#notebooks-tutorials)
+- [Documentation](#documentation)
 
 ## Fine Tuning
 - [Unsloth](https://docs.unsloth.ai/) - Makes finetuning large language models like Llama-3, Mistral, Phi-4 and Gemma 2x faster, use 70% less memory, and with no degradation in accuracy!
@@ -54,6 +55,10 @@
 ## Notebooks & Tutorials
 - [Vision RAG with Gemini & Cohere Embed](https://colab.research.google.com/drive/1RdkYOTpx41WNLCA8BJoh3egQRMX8fpJZ?usp=sharing) - Colab notebook demonstrating RAG on rich multimedia files (PDFs with graphics) using Gemini 2.5 and Cohere Embed v4, avoiding complex image-to-markdown steps.
 - [Infinite Retrieval: Attention Enhanced LLMs](https://arxiv.org/pdf/2502.12962) - A breakthrough technique that helps AI process extremely long documents (up to 1 million tokens) without special training or external tools. By analyzing how AI focuses on text (its "attention"), this method enables perfect information retrieval from massive documents using even smaller AI models.
+- [Advances and Challenges in Foundation Agents](https://arxiv.org/pdf/2504.01990) - Comprehensive survey of intelligent agents within a brain-inspired architecture, exploring modular foundations, self-enhancement mechanisms, collaborative multi-agent systems, and safety considerations for real-world deployment.
 
 ## Web Scraping
 - [Scrapling](https://github.com/scrapling/scrapling) - High-performance, intelligent web scraping library for Python that automatically adapts to website changes and bypasses anti-bot protections. Features include stealth browsing, automatic CSS selector matching, and Playwright integration.
+
+## Documentation
+- [Context7](https://context7.com/) - Up-to-date documentation for LLMs and AI code editors. Copy the latest docs and code for any library — paste into Cursor, Claude, or other LLMs.
