@@ -53,6 +53,7 @@
 
 ## Notebooks & Tutorials
 - [Vision RAG with Gemini & Cohere Embed](https://colab.research.google.com/drive/1RdkYOTpx41WNLCA8BJoh3egQRMX8fpJZ?usp=sharing) - Colab notebook demonstrating RAG on rich multimedia files (PDFs with graphics) using Gemini 2.5 and Cohere Embed v4, avoiding complex image-to-markdown steps.
+- [Infinite Retrieval: Attention Enhanced LLMs](https://arxiv.org/pdf/2502.12962) - A breakthrough technique that helps AI process extremely long documents (up to 1 million tokens) without special training or external tools. By analyzing how AI focuses on text (its "attention"), this method enables perfect information retrieval from massive documents using even smaller AI models.
 
 ## Web Scraping
 - [Scrapling](https://github.com/scrapling/scrapling) - High-performance, intelligent web scraping library for Python that automatically adapts to website changes and bypasses anti-bot protections. Features include stealth browsing, automatic CSS selector matching, and Playwright integration.
