@@ -19,6 +19,7 @@
 
 ## Fine Tuning
 - [Unsloth](https://docs.unsloth.ai/) - Makes finetuning large language models like Llama-3, Mistral, Phi-4 and Gemma 2x faster, use 70% less memory, and with no degradation in accuracy!
+- [Unsloth Notebooks](https://docs.unsloth.ai/get-started/unsloth-notebooks) - A collection of notebooks to fine-tune open source models.
 
 
 ## Vector Stores
