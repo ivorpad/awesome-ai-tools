@@ -15,6 +15,7 @@
 - [Embeddings](#embeddings)
 - [Notebooks & Tutorials](#notebooks-tutorials)
 - [Documentation](#documentation)
+- [LLM Utilities & Calculators](#llm-utilities-calculators)
 
 ## Fine Tuning
 - [Unsloth](https://docs.unsloth.ai/) - Makes finetuning large language models like Llama-3, Mistral, Phi-4 and Gemma 2x faster, use 70% less memory, and with no degradation in accuracy!
@@ -62,3 +63,6 @@
 
 ## Documentation
 - [Context7](https://context7.com/) - Up-to-date documentation for LLMs and AI code editors. Copy the latest docs and code for any library — paste into Cursor, Claude, or other LLMs.
+
+## LLM Utilities & Calculators
+- [VRAM & Performance Calculator](https://apxml.com/tools/vram-calculator) - Estimate VRAM and performance requirements for LLM inference and fine-tuning, including quantization, KV cache, and hardware configuration options.
