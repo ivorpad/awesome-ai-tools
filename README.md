@@ -11,6 +11,7 @@
 - [Database Tools](#database-tools)
 - [OCR](#ocr)
 - [Document Intelligence](#document-intelligence)
+- [Video Generation](#video-generation)
 - [Web Scraping](#web-scraping)
 - [Embeddings](#embeddings)
 - [Notebooks & Tutorials](#notebooks-tutorials)
@@ -50,6 +51,9 @@
 ## Document Intelligence
 - [ExtractThinker](https://github.com/Dicklesworthstone/extractthinker) - Document intelligence tool that extracts structured data from documents using LLMs, functioning like an ORM
 - [Docling](https://github.com/docling) - Providing seamless integrations with the gen AI ecosystem. Features include parsing multiple document formats, advanced PDF understanding, unified document representation, various export formats, local execution capabilities, plug-and-play integrations with LangChain/LlamaIndex/Crew AI/Haystack, extensive OCR support, and Visual Language Models support.
+
+## Video Generation
+- [Shotstack](https://shotstack.io/) - AI-powered video creation platform offering programmatic video editing, scalable rendering, and a white-label editor.
 
 ## Embeddings
 - [Model2Vec](https://github.com/minishlab/model2vec) - Creates fast, state-of-the-art static embeddings by distilling sentence transformers into significantly smaller and faster models.
